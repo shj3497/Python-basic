@@ -3,3 +3,4 @@
 # push push push
 # pull github에서 파이참으로 이동 테스트
 # 성공성공성공
+# 노트북에서 깃허브로 올리기
