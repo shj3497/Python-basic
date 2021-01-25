@@ -6,6 +6,12 @@
 #   ex) lang.extend(['Mybatis','Spring'])
 # remove() : 입력값과 첫 번째로 일치하는 항목을 리스트에서 제거
 #   ex) lang.remove('Spring')
+#   ex) basic_1_1 참고
+zz = [1,2,3,4,5,5,5]
+print(zz)
+remove_set = {3,5}
+result = [i for i in zz if i not in remove_set]
+print(result)
 # pop() : 리스트의 마지막 항목을 제거한 후에 반환
 #   ex) poplang = lang.pop()
 # index() : 리스트에서 인자와 일치하는 첫 번째 항목의 위치를 반환
@@ -14,7 +20,8 @@
 #   ex) countlang = lang.count('javascript')
 # sort() : 숫자나 문자열로 구성된 리스트 항목을 순방향으로 정렬
 #   ex) lang.sort()
-# reverse() : 리스트 항목을 끝에서부터 역순으로 정렬
+#   ex) lang.sort(reverse=True) >> 리스트 항목을 내림차순으로 정렬
+# reverse() : 리스트 항목!을 끝에서부터 역순으로 정렬
 #   ex) lang.reverse()
 # len(lang) : lang 배열의 길이를 출력
 
