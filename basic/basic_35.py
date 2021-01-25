@@ -1,6 +1,23 @@
 # 함수 이용해서 세 수 중 큰 수 찾기
-# test push test
-# push push push
-# pull github에서 파이참으로 이동 테스트
-# 성공성공성공
-# 노트북에서 깃허브로 올리기
+
+def func(a,b,c):
+    if(a > b):
+        if(a > c):
+            m = a
+        else:
+            m = c
+    else:
+        if(b > c):
+            m = b
+        else:
+            m = c
+    return m
+
+a = int(input("a : "))
+b = int(input("b : "))
+c = int(input("c : "))
+
+r = func(a,b,c)
+print(r)
+
+
