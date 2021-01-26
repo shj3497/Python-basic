@@ -70,6 +70,7 @@ def merge_sort(a):
             ia = ia + 1
 
 d = [1,3,5,7,3,4,6,10,12,26]
+print(d)
 merge_sort(d)
 print(d)
 
