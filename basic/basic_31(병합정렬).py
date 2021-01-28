@@ -1,12 +1,14 @@
 # 병합정렬
 # 각 리스트의 숫자를 비교하여 새로운 리스트에 집어 넣음
 a = [1, 3, 5, 7]
-b = [3, 4, 8, 10]
+b = [4, 3, 6, 10]
 c = []
 i = 0
 j = 0
 k = 0
 while i<len(a) and j<len(b):
+    a.sort()
+    b.sort()
     if a[i] < b[j]:
         c.append(a[i])
         i = i+1
@@ -50,7 +52,7 @@ def merge_sort(a):
     ia = 0
 
     while i1 < len(g1) and i2 < len(g2):
-        if g1[i1] > g2[i2]:
+        if g1[i1] < g2[i2]:
             a[ia] = g1[i1]
             i1 = i1 + 1
             ia = ia + 1
@@ -69,7 +71,7 @@ def merge_sort(a):
             i1 = i1 + 1
             ia = ia + 1
 
-d = [1,3,5,7,3,4,6,10,12,26]
+d = [3, 1, 5, 7, 4, 3, 6, 10]
 print(d)
 merge_sort(d)
 print(d)

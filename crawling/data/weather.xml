@@ -6,18 +6,18 @@
 <description>기상청 날씨 웹서비스</description>
 <language>ko</language>
 <generator>기상청</generator>
-<pubDate>2021년 01월 27일 (수)요일 06:00</pubDate>
+<pubDate>2021년 01월 28일 (목)요일 06:00</pubDate>
  <item>
 <author>기상청</author>
 <category>육상중기예보</category>
-<title>전국 육상 중기예보 - 2021년 01월 27일 (수)요일 06:00 발표</title>
+<title>전국 육상 중기예보 - 2021년 01월 28일 (목)요일 06:00 발표</title>
 <link>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</link>
 <guid>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</guid>
 <description>
 	<header>
 		<title>전국 육상중기예보</title>
-		<tm>202101270600</tm>
-		<wf><![CDATA[○ (강수) 2월 2일(화)은 제주도에 비가 오겠습니다.<br />○ (기온) 30일(토) 아침 기온은 -12~-4도로 어제(최저기온 1~8도)보다 매우 낮아 춥겠으나, 낮 기온은 4~9도로 어제(최고기온 4~11도)와 비슷하거나 조금 낮겠습니다.<br />          한편, 31일(일)~2월 6일(토) 아침 기온은 -11~6도, 낮 기온은 -1~12도로 어제와 비슷하거나 조금 낮겠으나, 평년(아침최저기온 -10~-1, 낮최고기온 2~8도)보다 높겠습니다.<br />○ (해상) 30일(토)은 동해상에서 바람이 매우 강하게 불고, 물결이 2.0~5.0m(최대 6.0m)로 매우 높게 일겠습니다.<br />          특히, 울릉도.독도에는 너울에 의한 높은 물결이 해안도로나 방파제를 넘는 곳이 많겠으니, 안전사고에 각별히 유의하기 바랍니다.<br />○ (주말전망) 30일(토)은 전국(강원영서, 제주도 구름많음)이 대체로 맑겠으나, 31일(일)은 가끔 구름이 많겠습니다. 아침 기온은 -12~3도, 낮 기온은 4~12도의 분포가 되겠습니다.]]></wf>
+		<tm>202101280600</tm>
+		<wf><![CDATA[○ (강수) 2월 1일(월)은 제주도와 경남권에 비가 오겠습니다.<br />○ (기온) 31일(일)~2월 7일(일) 아침 기온은 -10~8도, 낮 기온은 -1~12도로 어제(아침최저기온 -2~4도, 낮최고기온 5~13도)보다 낮겠습니다. <br />○ (주말전망) 30일(토)은 전국이 대체로 흐리다가 오후부터 중부지방은 차차 맑아지겠고, 동해안은 대체로 맑겠습니다.  <br />              31일(일)은 전국이 대체로 맑겠으나 충남권과 전라권, 제주도는 가끔 구름많겠습니다. 아침 기온은 -13~3도, 낮 기온은 4~12도의 분포가 되겠습니다.]]></wf>
 	</header>
 	<body>
 				
@@ -28,30 +28,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>구름많음</wf>
+					<wf>맑음</wf>
 					<tmn>-3</tmn>
-					<tmx>7</tmx>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -61,7 +41,7 @@
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-3</tmn>
-					<tmx>7</tmx>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -69,7 +49,7 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
+					<wf>흐림</wf>
 					<tmn>0</tmn>
 					<tmx>7</tmx>
 					<reliability></reliability>
@@ -79,7 +59,7 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
+					<wf>흐림</wf>
 					<tmn>0</tmn>
 					<tmx>7</tmx>
 					<reliability></reliability>
@@ -90,8 +70,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>1</tmx>
+					<tmn>-7</tmn>
+					<tmx>0</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -100,8 +80,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>1</tmx>
+					<tmn>-7</tmn>
+					<tmx>0</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -110,8 +90,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>1</tmx>
+					<tmn>-6</tmn>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -120,8 +100,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>1</tmx>
+					<tmn>-6</tmn>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -131,7 +111,7 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-6</tmn>
-					<tmx>-1</tmx>
+					<tmx>1</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -141,7 +121,27 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-6</tmn>
-					<tmx>-1</tmx>
+					<tmx>1</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -154,30 +154,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>구름많음</wf>
+					<wf>맑음</wf>
 					<tmn>-3</tmn>
-					<tmx>5</tmx>
+					<tmx>4</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -187,7 +167,7 @@
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-3</tmn>
-					<tmx>5</tmx>
+					<tmx>4</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -195,9 +175,9 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
+					<wf>흐림</wf>
 					<tmn>2</tmn>
-					<tmx>5</tmx>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -205,9 +185,9 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
+					<wf>흐림</wf>
 					<tmn>2</tmn>
-					<tmx>5</tmx>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -215,46 +195,6 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>0</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-01</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>0</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>2</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>2</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-6</tmn>
 					<tmx>-1</tmx>
@@ -264,10 +204,70 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2021-02-03</tmEf>
+					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
 					<tmn>-6</tmn>
 					<tmx>-1</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -280,30 +280,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>6</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>6</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-4</tmn>
-					<tmx>8</tmx>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -312,8 +292,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-4</tmn>
-					<tmx>8</tmx>
+					<tmn>-5</tmn>
+					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -321,7 +301,7 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
+					<wf>흐림</wf>
 					<tmn>0</tmn>
 					<tmx>7</tmx>
 					<reliability></reliability>
@@ -331,7 +311,7 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
+					<wf>흐림</wf>
 					<tmn>0</tmn>
 					<tmx>7</tmx>
 					<reliability></reliability>
@@ -342,7 +322,7 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-6</tmn>
+					<tmn>-7</tmn>
 					<tmx>1</tmx>
 					<reliability></reliability>
 				</data>
@@ -352,7 +332,7 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-6</tmn>
+					<tmn>-7</tmn>
 					<tmx>1</tmx>
 					<reliability></reliability>
 				</data>
@@ -383,7 +363,7 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-6</tmn>
-					<tmx>0</tmx>
+					<tmx>1</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -393,7 +373,27 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-6</tmn>
-					<tmx>0</tmx>
+					<tmx>1</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -406,30 +406,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-11</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-11</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-8</tmn>
-					<tmx>6</tmx>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -438,8 +418,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-8</tmn>
-					<tmx>6</tmx>
+					<tmn>-9</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -447,8 +427,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-5</tmn>
+					<wf>흐림</wf>
+					<tmn>-3</tmn>
 					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
@@ -457,8 +437,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-5</tmn>
+					<wf>흐림</wf>
+					<tmn>-3</tmn>
 					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
@@ -468,7 +448,7 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-9</tmn>
+					<tmn>-11</tmn>
 					<tmx>0</tmx>
 					<reliability></reliability>
 				</data>
@@ -478,7 +458,7 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-9</tmn>
+					<tmn>-11</tmn>
 					<tmx>0</tmx>
 					<reliability></reliability>
 				</data>
@@ -488,8 +468,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-10</tmn>
-					<tmx>2</tmx>
+					<tmn>-9</tmn>
+					<tmx>3</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -498,8 +478,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-10</tmn>
-					<tmx>2</tmx>
+					<tmn>-9</tmn>
+					<tmx>3</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -508,8 +488,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
-					<tmn>-11</tmn>
-					<tmx>-1</tmx>
+					<tmn>-10</tmn>
+					<tmx>1</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -518,8 +498,28 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
-					<tmn>-11</tmn>
-					<tmx>-1</tmx>
+					<tmn>-10</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -532,30 +532,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-10</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-10</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>구름많음</wf>
+					<wf>맑음</wf>
 					<tmn>-6</tmn>
-					<tmx>7</tmx>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -565,7 +545,7 @@
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-6</tmn>
-					<tmx>7</tmx>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -573,7 +553,7 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
+					<wf>흐림</wf>
 					<tmn>-3</tmn>
 					<tmx>7</tmx>
 					<reliability></reliability>
@@ -583,7 +563,7 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
+					<wf>흐림</wf>
 					<tmn>-3</tmn>
 					<tmx>7</tmx>
 					<reliability></reliability>
@@ -594,7 +574,7 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-6</tmn>
+					<tmn>-7</tmn>
 					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
@@ -604,7 +584,7 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-6</tmn>
+					<tmn>-7</tmn>
 					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
@@ -615,7 +595,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
 					<tmn>-8</tmn>
-					<tmx>2</tmx>
+					<tmx>3</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -625,7 +605,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
 					<tmn>-8</tmn>
-					<tmx>2</tmx>
+					<tmx>3</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -635,7 +615,7 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-7</tmn>
-					<tmx>1</tmx>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -645,7 +625,27 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-7</tmn>
-					<tmx>1</tmx>
+					<tmx>2</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>3</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -658,28 +658,8 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>구름많음</wf>
+					<wf>맑음</wf>
 					<tmn>-5</tmn>
 					<tmx>8</tmx>
 					<reliability></reliability>
@@ -699,9 +679,9 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
+					<wf>흐림</wf>
 					<tmn>1</tmn>
-					<tmx>9</tmx>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -709,9 +689,9 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
+					<wf>흐림</wf>
 					<tmn>1</tmn>
-					<tmx>9</tmx>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -720,8 +700,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>1</tmx>
+					<tmn>-7</tmn>
+					<tmx>0</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -730,38 +710,38 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
 					<tmn>-5</tmn>
-					<tmx>1</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
 					<tmx>2</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>2</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
-					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>0</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -770,8 +750,28 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>0</tmx>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -786,30 +786,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-12</tmn>
-					<tmx>4</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-12</tmn>
-					<tmx>4</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>6</tmx>
+					<tmn>-7</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -818,8 +798,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>6</tmx>
+					<tmn>-7</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -828,7 +808,7 @@
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
 					<wf>흐림</wf>
-					<tmn>-5</tmn>
+					<tmn>-4</tmn>
 					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
@@ -838,7 +818,7 @@
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
 					<wf>흐림</wf>
-					<tmn>-5</tmn>
+					<tmn>-4</tmn>
 					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
@@ -847,8 +827,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
-					<wf>흐림</wf>
-					<tmn>-7</tmn>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
 					<tmx>1</tmx>
 					<reliability></reliability>
 				</data>
@@ -858,7 +838,7 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-7</tmn>
+					<tmn>-8</tmn>
 					<tmx>1</tmx>
 					<reliability></reliability>
 				</data>
@@ -868,8 +848,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-10</tmn>
-					<tmx>1</tmx>
+					<tmn>-9</tmn>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -878,8 +858,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-10</tmn>
-					<tmx>1</tmx>
+					<tmn>-9</tmn>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -888,7 +868,27 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
-					<tmn>-9</tmn>
+					<tmn>-8</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
 					<tmx>0</tmx>
 					<reliability></reliability>
 				</data>
@@ -896,9 +896,9 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2021-02-03</tmEf>
+					<tmEf>2021-02-04</tmEf>
 					<wf>맑음</wf>
-					<tmn>-9</tmn>
+					<tmn>-10</tmn>
 					<tmx>0</tmx>
 					<reliability></reliability>
 				</data>
@@ -912,30 +912,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-10</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-10</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
 					<tmn>-5</tmn>
-					<tmx>7</tmx>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -945,7 +925,7 @@
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
 					<tmn>-5</tmn>
-					<tmx>7</tmx>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -973,8 +953,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
-					<wf>흐림</wf>
-					<tmn>-5</tmn>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
 					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
@@ -984,7 +964,7 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-5</tmn>
+					<tmn>-6</tmn>
 					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
@@ -994,8 +974,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-8</tmn>
-					<tmx>2</tmx>
+					<tmn>-7</tmn>
+					<tmx>3</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1004,8 +984,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-8</tmn>
-					<tmx>2</tmx>
+					<tmn>-7</tmn>
+					<tmx>3</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1014,8 +994,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>0</tmx>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1024,8 +1004,28 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>0</tmx>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>1</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1040,26 +1040,6 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
 					<tmn>-1</tmn>
@@ -1081,8 +1061,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>맑음</wf>
-					<tmn>2</tmn>
+					<wf>구름많음</wf>
+					<tmn>3</tmn>
 					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
@@ -1092,7 +1072,7 @@
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
 					<wf>구름많음</wf>
-					<tmn>2</tmn>
+					<tmn>3</tmn>
 					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
@@ -1101,8 +1081,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
-					<wf>흐림</wf>
-					<tmn>-2</tmn>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
 					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
@@ -1112,7 +1092,7 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-2</tmn>
+					<tmn>-3</tmn>
 					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
@@ -1122,8 +1102,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>5</tmx>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1132,8 +1112,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>5</tmx>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1143,6 +1123,26 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
 					<tmx>4</tmx>
 					<reliability></reliability>
 				</data>
@@ -1150,9 +1150,9 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2021-02-03</tmEf>
+					<tmEf>2021-02-04</tmEf>
 					<wf>맑음</wf>
-					<tmn>-2</tmn>
+					<tmn>-4</tmn>
 					<tmx>4</tmx>
 					<reliability></reliability>
 				</data>
@@ -1168,26 +1168,6 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-3</tmn>
@@ -1199,7 +1179,7 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>맑음</wf>
+					<wf>구름많음</wf>
 					<tmn>-3</tmn>
 					<tmx>10</tmx>
 					<reliability></reliability>
@@ -1209,8 +1189,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>1</tmn>
+					<wf>흐림</wf>
+					<tmn>3</tmn>
 					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
@@ -1219,8 +1199,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>1</tmn>
+					<wf>흐림</wf>
+					<tmn>3</tmn>
 					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
@@ -1230,8 +1210,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>3</tmx>
+					<tmn>-6</tmn>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1240,8 +1220,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>3</tmx>
+					<tmn>-6</tmn>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1251,7 +1231,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
 					<tmn>-6</tmn>
-					<tmx>4</tmx>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1261,7 +1241,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
 					<tmn>-6</tmn>
-					<tmx>4</tmx>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1269,9 +1249,9 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-02-03</tmEf>
-					<wf>구름많음</wf>
+					<wf>맑음</wf>
 					<tmn>-4</tmn>
-					<tmx>3</tmx>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1281,7 +1261,27 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-4</tmn>
-					<tmx>3</tmx>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1294,26 +1294,6 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-4</tmn>
@@ -1325,7 +1305,7 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>맑음</wf>
+					<wf>구름많음</wf>
 					<tmn>-4</tmn>
 					<tmx>9</tmx>
 					<reliability></reliability>
@@ -1335,8 +1315,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>0</tmn>
+					<wf>흐림</wf>
+					<tmn>2</tmn>
 					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
@@ -1345,8 +1325,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>0</tmn>
+					<wf>흐림</wf>
+					<tmn>2</tmn>
 					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
@@ -1356,8 +1336,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>2</tmx>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1366,8 +1346,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>2</tmx>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1376,8 +1356,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>4</tmx>
+					<tmn>-6</tmn>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1386,8 +1366,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>4</tmx>
+					<tmn>-6</tmn>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1395,9 +1375,9 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-02-03</tmEf>
-					<wf>구름많음</wf>
+					<wf>맑음</wf>
 					<tmn>-5</tmn>
-					<tmx>2</tmx>
+					<tmx>4</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1407,7 +1387,27 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-5</tmn>
-					<tmx>2</tmx>
+					<tmx>4</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>6</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1420,29 +1420,9 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-5</tmn>
+					<tmn>-6</tmn>
 					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
@@ -1451,8 +1431,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
+					<wf>구름많음</wf>
+					<tmn>-6</tmn>
 					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
@@ -1461,8 +1441,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>1</tmn>
+					<wf>흐림</wf>
+					<tmn>4</tmn>
 					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
@@ -1471,8 +1451,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>1</tmn>
+					<wf>흐림</wf>
+					<tmn>4</tmn>
 					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
@@ -1482,8 +1462,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>1</tmx>
+					<tmn>-7</tmn>
+					<tmx>0</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1492,38 +1472,38 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
 					<tmn>-5</tmn>
-					<tmx>1</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
 					<tmx>3</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>3</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-6</tmn>
-					<tmx>0</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1532,8 +1512,28 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>0</tmx>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>6</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1548,28 +1548,8 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>구름많음</wf>
+					<wf>맑음</wf>
 					<tmn>-3</tmn>
 					<tmx>9</tmx>
 					<reliability></reliability>
@@ -1589,8 +1569,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>1</tmn>
+					<wf>흐림</wf>
+					<tmn>2</tmn>
 					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
@@ -1599,8 +1579,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>1</tmn>
+					<wf>흐림</wf>
+					<tmn>2</tmn>
 					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
@@ -1610,8 +1590,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>2</tmx>
+					<tmn>-5</tmn>
+					<tmx>1</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1620,8 +1600,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>2</tmx>
+					<tmn>-5</tmn>
+					<tmx>1</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1630,8 +1610,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>4</tmx>
+					<tmn>-5</tmn>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1639,19 +1619,19 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>4</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
 					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>6</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
 					<tmn>-4</tmn>
-					<tmx>1</tmx>
+					<tmx>3</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1661,7 +1641,27 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-4</tmn>
-					<tmx>1</tmx>
+					<tmx>3</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1674,30 +1674,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-12</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-12</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>구름많음</wf>
+					<wf>맑음</wf>
 					<tmn>-6</tmn>
-					<tmx>7</tmx>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1707,6 +1687,26 @@
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
 					<tmn>-6</tmn>
+					<tmx>8</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-01-31</tmEf>
+					<wf>흐림</wf>
+					<tmn>-1</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-01-31</tmEf>
+					<wf>흐림</wf>
+					<tmn>-1</tmn>
 					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
@@ -1714,30 +1714,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-2</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-2</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>2</tmx>
+					<tmn>-7</tmn>
+					<tmx>1</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1746,8 +1726,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>2</tmx>
+					<tmn>-7</tmn>
+					<tmx>1</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1757,7 +1737,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
 					<tmn>-8</tmn>
-					<tmx>3</tmx>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1765,9 +1745,9 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
+					<wf>구름많음</wf>
 					<tmn>-8</tmn>
-					<tmx>3</tmx>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1775,9 +1755,9 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-02-03</tmEf>
-					<wf>구름많음</wf>
+					<wf>맑음</wf>
 					<tmn>-7</tmn>
-					<tmx>1</tmx>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1787,7 +1767,27 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-7</tmn>
-					<tmx>1</tmx>
+					<tmx>2</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>4</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1800,30 +1800,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-9</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-9</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-4</tmn>
-					<tmx>9</tmx>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1832,8 +1812,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>9</tmx>
+					<tmn>-5</tmn>
+					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1841,8 +1821,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-2</tmn>
+					<wf>흐림</wf>
+					<tmn>1</tmn>
 					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
@@ -1851,8 +1831,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-2</tmn>
+					<wf>흐림</wf>
+					<tmn>1</tmn>
 					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
@@ -1862,8 +1842,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
+					<tmn>-7</tmn>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1872,8 +1852,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
+					<tmn>-7</tmn>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1882,8 +1862,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-8</tmn>
-					<tmx>4</tmx>
+					<tmn>-7</tmn>
+					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1891,19 +1871,19 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-8</tmn>
-					<tmx>4</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
 					<wf>구름많음</wf>
+					<tmn>-7</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
 					<tmn>-5</tmn>
-					<tmx>3</tmx>
+					<tmx>4</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1913,7 +1893,27 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-5</tmn>
-					<tmx>3</tmx>
+					<tmx>4</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1928,26 +1928,6 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>9</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>9</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
 					<tmn>0</tmn>
@@ -1959,7 +1939,7 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>맑음</wf>
+					<wf>구름많음</wf>
 					<tmn>0</tmn>
 					<tmx>12</tmx>
 					<reliability></reliability>
@@ -1970,8 +1950,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
 					<wf>흐림</wf>
-					<tmn>3</tmn>
-					<tmx>11</tmx>
+					<tmn>4</tmn>
+					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -1979,69 +1959,89 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>3</tmn>
-					<tmx>11</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-01</tmEf>
-					<wf>구름많음</wf>
-					<tmn>0</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-01</tmEf>
-					<wf>맑음</wf>
-					<tmn>0</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>6</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-4</tmn>
-					<tmx>6</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-2</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-03</tmEf>
 					<wf>흐림</wf>
+					<tmn>4</tmn>
+					<tmx>10</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-01</tmEf>
+					<wf>맑음</wf>
 					<tmn>-2</tmn>
-					<tmx>5</tmx>
+					<tmx>3</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-01</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>8</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>8</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>8</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2054,30 +2054,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-2</tmn>
-					<tmx>9</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-2</tmn>
-					<tmx>9</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
 					<tmn>2</tmn>
-					<tmx>10</tmx>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2085,9 +2065,9 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>맑음</wf>
+					<wf>구름많음</wf>
 					<tmn>2</tmn>
-					<tmx>10</tmx>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2096,7 +2076,7 @@
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
 					<wf>흐림</wf>
-					<tmn>4</tmn>
+					<tmn>5</tmn>
 					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
@@ -2105,8 +2085,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>4</tmn>
+					<wf>흐림</wf>
+					<tmn>5</tmn>
 					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
@@ -2115,9 +2095,9 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
-					<wf>구름많음</wf>
-					<tmn>1</tmn>
-					<tmx>4</tmx>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>3</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2126,8 +2106,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>1</tmn>
-					<tmx>4</tmx>
+					<tmn>-1</tmn>
+					<tmx>3</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2137,7 +2117,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
 					<tmn>-2</tmn>
-					<tmx>5</tmx>
+					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2147,7 +2127,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-2</tmn>
-					<tmx>5</tmx>
+					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2155,9 +2135,9 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-02-03</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-1</tmn>
-					<tmx>4</tmx>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2165,9 +2145,29 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-02-03</tmEf>
-					<wf>흐림</wf>
-					<tmn>-1</tmn>
-					<tmx>4</tmx>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2180,26 +2180,6 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
 					<tmn>3</tmn>
@@ -2211,7 +2191,7 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>맑음</wf>
+					<wf>구름많음</wf>
 					<tmn>3</tmn>
 					<tmx>10</tmx>
 					<reliability></reliability>
@@ -2222,7 +2202,7 @@
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
 					<wf>흐림</wf>
-					<tmn>5</tmn>
+					<tmn>7</tmn>
 					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
@@ -2231,8 +2211,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>5</tmn>
+					<wf>흐림</wf>
+					<tmn>7</tmn>
 					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
@@ -2241,9 +2221,9 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
-					<wf>구름많음</wf>
-					<tmn>2</tmn>
-					<tmx>7</tmx>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2252,8 +2232,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>2</tmn>
-					<tmx>7</tmx>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2263,7 +2243,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
 					<tmn>-1</tmn>
-					<tmx>6</tmx>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2273,7 +2253,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-1</tmn>
-					<tmx>6</tmx>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2281,9 +2261,9 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-02-03</tmEf>
-					<wf>구름많음</wf>
+					<wf>맑음</wf>
 					<tmn>1</tmn>
-					<tmx>6</tmx>
+					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2291,9 +2271,29 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-02-03</tmEf>
-					<wf>흐림</wf>
+					<wf>맑음</wf>
 					<tmn>1</tmn>
-					<tmx>6</tmx>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>1</tmn>
+					<tmx>8</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>1</tmn>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2306,30 +2306,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>9</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>9</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
 					<tmn>0</tmn>
-					<tmx>11</tmx>
+					<tmx>12</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2337,9 +2317,9 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>맑음</wf>
+					<wf>구름많음</wf>
 					<tmn>0</tmn>
-					<tmx>11</tmx>
+					<tmx>12</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2348,7 +2328,7 @@
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
 					<wf>흐림</wf>
-					<tmn>3</tmn>
+					<tmn>4</tmn>
 					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
@@ -2357,8 +2337,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>3</tmn>
+					<wf>흐림</wf>
+					<tmn>4</tmn>
 					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
@@ -2367,9 +2347,9 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
-					<wf>구름많음</wf>
-					<tmn>0</tmn>
-					<tmx>7</tmx>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2378,8 +2358,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>0</tmn>
-					<tmx>7</tmx>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2389,7 +2369,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
 					<tmn>-3</tmn>
-					<tmx>8</tmx>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2399,7 +2379,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-3</tmn>
-					<tmx>8</tmx>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2407,8 +2387,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-02-03</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-1</tmn>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
 					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
@@ -2417,9 +2397,29 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-02-03</tmEf>
-					<wf>흐림</wf>
-					<tmn>-1</tmn>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
 					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>9</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2432,26 +2432,6 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>9</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>9</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
 					<tmn>1</tmn>
@@ -2463,7 +2443,7 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>맑음</wf>
+					<wf>구름많음</wf>
 					<tmn>1</tmn>
 					<tmx>11</tmx>
 					<reliability></reliability>
@@ -2474,8 +2454,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
 					<wf>흐림</wf>
-					<tmn>4</tmn>
-					<tmx>12</tmx>
+					<tmn>6</tmn>
+					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2483,69 +2463,89 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>4</tmn>
-					<tmx>12</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-01</tmEf>
-					<wf>구름많음</wf>
-					<tmn>1</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-01</tmEf>
-					<wf>맑음</wf>
-					<tmn>1</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-3</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
-					<wf>구름많음</wf>
-					<tmn>0</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-03</tmEf>
 					<wf>흐림</wf>
-					<tmn>0</tmn>
-					<tmx>7</tmx>
+					<tmn>6</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-01</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>6</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-01</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>6</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>9</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>9</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>1</tmn>
+					<tmx>8</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>1</tmn>
+					<tmx>8</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>9</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2558,26 +2558,6 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>9</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>9</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-2</tmn>
@@ -2589,7 +2569,7 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>맑음</wf>
+					<wf>구름많음</wf>
 					<tmn>-2</tmn>
 					<tmx>12</tmx>
 					<reliability></reliability>
@@ -2600,8 +2580,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
 					<wf>흐림</wf>
-					<tmn>3</tmn>
-					<tmx>11</tmx>
+					<tmn>5</tmn>
+					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2609,69 +2589,89 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>3</tmn>
-					<tmx>11</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-01</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-1</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-01</tmEf>
-					<wf>맑음</wf>
-					<tmn>-1</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-6</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-2</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-03</tmEf>
 					<wf>흐림</wf>
+					<tmn>5</tmn>
+					<tmx>10</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-01</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-01</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>9</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>9</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
 					<tmn>-2</tmn>
-					<tmx>5</tmx>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>9</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2686,26 +2686,6 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-1</tmn>
@@ -2717,7 +2697,7 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>맑음</wf>
+					<wf>구름많음</wf>
 					<tmn>-1</tmn>
 					<tmx>11</tmx>
 					<reliability></reliability>
@@ -2728,8 +2708,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
 					<wf>흐림</wf>
-					<tmn>3</tmn>
-					<tmx>11</tmx>
+					<tmn>4</tmn>
+					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2737,69 +2717,89 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>3</tmn>
-					<tmx>11</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-01</tmEf>
-					<wf>맑음</wf>
-					<tmn>-2</tmn>
-					<tmx>4</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-01</tmEf>
-					<wf>맑음</wf>
-					<tmn>-2</tmn>
-					<tmx>4</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-3</tmn>
-					<tmx>3</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-03</tmEf>
 					<wf>흐림</wf>
+					<tmn>4</tmn>
+					<tmx>10</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-01</tmEf>
+					<wf>맑음</wf>
 					<tmn>-3</tmn>
-					<tmx>3</tmx>
+					<tmx>2</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-01</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>8</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>8</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2812,30 +2812,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-2</tmn>
-					<tmx>10</tmx>
+					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2843,9 +2823,9 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>맑음</wf>
+					<wf>구름많음</wf>
 					<tmn>-2</tmn>
-					<tmx>10</tmx>
+					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2854,7 +2834,7 @@
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
 					<wf>흐림</wf>
-					<tmn>2</tmn>
+					<tmn>4</tmn>
 					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
@@ -2863,8 +2843,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>2</tmn>
+					<wf>흐림</wf>
+					<tmn>4</tmn>
 					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
@@ -2874,8 +2854,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>3</tmx>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2884,8 +2864,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>3</tmx>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2895,7 +2875,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
 					<tmn>-5</tmn>
-					<tmx>4</tmx>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2903,19 +2883,19 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>4</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
 					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>6</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
 					<tmn>-3</tmn>
-					<tmx>2</tmx>
+					<tmx>4</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2923,9 +2903,29 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-02-03</tmEf>
-					<wf>흐림</wf>
+					<wf>맑음</wf>
 					<tmn>-3</tmn>
-					<tmx>2</tmx>
+					<tmx>4</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2938,26 +2938,6 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-1</tmn>
@@ -2969,7 +2949,7 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>맑음</wf>
+					<wf>구름많음</wf>
 					<tmn>-1</tmn>
 					<tmx>11</tmx>
 					<reliability></reliability>
@@ -2980,8 +2960,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
 					<wf>흐림</wf>
-					<tmn>2</tmn>
-					<tmx>10</tmx>
+					<tmn>3</tmn>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -2989,69 +2969,89 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>2</tmn>
-					<tmx>10</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-01</tmEf>
-					<wf>맑음</wf>
-					<tmn>-2</tmn>
-					<tmx>3</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-01</tmEf>
-					<wf>맑음</wf>
-					<tmn>-2</tmn>
-					<tmx>3</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-3</tmn>
-					<tmx>3</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-03</tmEf>
 					<wf>흐림</wf>
+					<tmn>3</tmn>
+					<tmx>9</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-01</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-01</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
 					<tmn>-3</tmn>
-					<tmx>3</tmx>
+					<tmx>6</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3064,26 +3064,6 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-2</tmn>
@@ -3095,7 +3075,7 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>맑음</wf>
+					<wf>구름많음</wf>
 					<tmn>-2</tmn>
 					<tmx>10</tmx>
 					<reliability></reliability>
@@ -3106,8 +3086,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
 					<wf>흐림</wf>
-					<tmn>1</tmn>
-					<tmx>10</tmx>
+					<tmn>3</tmn>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3115,69 +3095,89 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>1</tmn>
-					<tmx>10</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-01</tmEf>
-					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>4</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-01</tmEf>
-					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>4</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-3</tmn>
-					<tmx>4</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-03</tmEf>
 					<wf>흐림</wf>
-					<tmn>-3</tmn>
-					<tmx>4</tmx>
+					<tmn>3</tmn>
+					<tmx>9</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-01</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-01</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>6</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3190,30 +3190,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-1</tmn>
-					<tmx>11</tmx>
+					<tmx>12</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3221,9 +3201,9 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>맑음</wf>
+					<wf>구름많음</wf>
 					<tmn>-1</tmn>
-					<tmx>11</tmx>
+					<tmx>12</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3232,7 +3212,7 @@
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
 					<wf>흐림</wf>
-					<tmn>3</tmn>
+					<tmn>4</tmn>
 					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
@@ -3241,8 +3221,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>3</tmn>
+					<wf>흐림</wf>
+					<tmn>4</tmn>
 					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
@@ -3252,8 +3232,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-1</tmn>
-					<tmx>3</tmx>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3262,8 +3242,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-1</tmn>
-					<tmx>3</tmx>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3272,8 +3252,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>5</tmx>
+					<tmn>-4</tmn>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3281,19 +3261,19 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-2</tmn>
-					<tmx>3</tmx>
+					<tmn>-4</tmn>
+					<tmx>8</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3301,9 +3281,29 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-02-03</tmEf>
-					<wf>흐림</wf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
 					<tmn>-2</tmn>
-					<tmx>3</tmx>
+					<tmx>6</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3316,30 +3316,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-8</tmn>
-					<tmx>6</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-8</tmn>
-					<tmx>6</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-3</tmn>
-					<tmx>9</tmx>
+					<tmn>-4</tmn>
+					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3347,9 +3327,9 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>9</tmx>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3358,8 +3338,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
 					<wf>흐림</wf>
-					<tmn>0</tmn>
-					<tmx>9</tmx>
+					<tmn>3</tmn>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3367,69 +3347,89 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>0</tmn>
-					<tmx>9</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-01</tmEf>
-					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>3</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-01</tmEf>
-					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>3</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-8</tmn>
-					<tmx>4</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-8</tmn>
-					<tmx>4</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-03</tmEf>
 					<wf>흐림</wf>
+					<tmn>3</tmn>
+					<tmx>8</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-01</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-01</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-7</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
 					<tmn>-5</tmn>
-					<tmx>3</tmx>
+					<tmx>4</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3444,30 +3444,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>구름많음</wf>
+					<wf>맑음</wf>
 					<tmn>3</tmn>
-					<tmx>12</tmx>
+					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3477,7 +3457,7 @@
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
 					<tmn>3</tmn>
-					<tmx>12</tmx>
+					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3485,8 +3465,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>6</tmn>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
 					<tmx>12</tmx>
 					<reliability></reliability>
 				</data>
@@ -3495,8 +3475,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>6</tmn>
+					<wf>흐리고 비</wf>
+					<tmn>8</tmn>
 					<tmx>12</tmx>
 					<reliability></reliability>
 				</data>
@@ -3506,8 +3486,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>2</tmn>
-					<tmx>8</tmx>
+					<tmn>-1</tmn>
+					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3516,38 +3496,38 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>9</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>9</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
 					<tmn>2</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-1</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-1</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
-					<wf>맑음</wf>
-					<tmn>1</tmn>
-					<tmx>8</tmx>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3556,8 +3536,28 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
-					<tmn>1</tmn>
-					<tmx>8</tmx>
+					<tmn>2</tmn>
+					<tmx>9</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>9</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3570,30 +3570,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>구름많음</wf>
+					<wf>맑음</wf>
 					<tmn>0</tmn>
-					<tmx>11</tmx>
+					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3603,7 +3583,7 @@
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
 					<tmn>0</tmn>
-					<tmx>11</tmx>
+					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3611,8 +3591,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>3</tmn>
+					<wf>흐림</wf>
+					<tmn>5</tmn>
 					<tmx>12</tmx>
 					<reliability></reliability>
 				</data>
@@ -3621,8 +3601,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>3</tmn>
+					<wf>흐리고 비</wf>
+					<tmn>5</tmn>
 					<tmx>12</tmx>
 					<reliability></reliability>
 				</data>
@@ -3632,8 +3612,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>0</tmn>
-					<tmx>7</tmx>
+					<tmn>-1</tmn>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3642,8 +3622,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>0</tmn>
-					<tmx>7</tmx>
+					<tmn>-1</tmn>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3673,7 +3653,7 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-1</tmn>
-					<tmx>6</tmx>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3683,7 +3663,27 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-1</tmn>
-					<tmx>6</tmx>
+					<tmx>9</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>8</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3696,30 +3696,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-6</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>구름많음</wf>
+					<wf>맑음</wf>
 					<tmn>0</tmn>
-					<tmx>11</tmx>
+					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3729,7 +3709,7 @@
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
 					<tmn>0</tmn>
-					<tmx>11</tmx>
+					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3737,8 +3717,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>3</tmn>
+					<wf>흐림</wf>
+					<tmn>5</tmn>
 					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
@@ -3747,8 +3727,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>3</tmn>
+					<wf>흐리고 비</wf>
+					<tmn>5</tmn>
 					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
@@ -3758,8 +3738,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>0</tmn>
-					<tmx>7</tmx>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3768,6 +3748,46 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>8</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>8</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
 					<tmn>0</tmn>
 					<tmx>7</tmx>
 					<reliability></reliability>
@@ -3776,40 +3796,20 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-02-02</tmEf>
+					<tmEf>2021-02-04</tmEf>
 					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>6</tmx>
+					<tmn>-2</tmn>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2021-02-02</tmEf>
+					<tmEf>2021-02-04</tmEf>
 					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>6</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
-					<wf>맑음</wf>
-					<tmn>0</tmn>
-					<tmx>6</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-03</tmEf>
-					<wf>맑음</wf>
-					<tmn>0</tmn>
-					<tmx>6</tmx>
+					<tmn>-2</tmn>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3822,28 +3822,8 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-8</tmn>
-					<tmx>9</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-8</tmn>
-					<tmx>9</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>구름많음</wf>
+					<wf>맑음</wf>
 					<tmn>-4</tmn>
 					<tmx>11</tmx>
 					<reliability></reliability>
@@ -3863,8 +3843,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>0</tmn>
+					<wf>흐림</wf>
+					<tmn>2</tmn>
 					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
@@ -3873,8 +3853,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>0</tmn>
+					<wf>흐리고 비</wf>
+					<tmn>2</tmn>
 					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
@@ -3884,8 +3864,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>0</tmn>
-					<tmx>8</tmx>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3894,8 +3874,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>0</tmn>
-					<tmx>8</tmx>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3905,7 +3885,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
 					<tmn>-6</tmn>
-					<tmx>8</tmx>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3915,7 +3895,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
 					<tmn>-6</tmn>
-					<tmx>8</tmx>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3924,8 +3904,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>7</tmx>
+					<tmn>-2</tmn>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3934,8 +3914,28 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>7</tmx>
+					<tmn>-2</tmn>
+					<tmx>9</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>9</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3948,29 +3948,9 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-8</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-8</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-3</tmn>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
 					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
@@ -3980,7 +3960,7 @@
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
-					<tmn>-3</tmn>
+					<tmn>-4</tmn>
 					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
@@ -3989,9 +3969,9 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-2</tmn>
-					<tmx>10</tmx>
+					<wf>흐림</wf>
+					<tmn>0</tmn>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -3999,9 +3979,9 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-2</tmn>
-					<tmx>10</tmx>
+					<wf>흐리고 비</wf>
+					<tmn>0</tmn>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4010,8 +3990,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>5</tmx>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4020,8 +4000,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>5</tmx>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4030,8 +4010,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>6</tmx>
+					<tmn>-6</tmn>
+					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4040,8 +4020,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>6</tmx>
+					<tmn>-6</tmn>
+					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4051,7 +4031,7 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-4</tmn>
-					<tmx>5</tmx>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4061,7 +4041,27 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-4</tmn>
-					<tmx>5</tmx>
+					<tmx>6</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4074,28 +4074,8 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>9</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>9</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>구름많음</wf>
+					<wf>맑음</wf>
 					<tmn>3</tmn>
 					<tmx>11</tmx>
 					<reliability></reliability>
@@ -4115,8 +4095,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>5</tmn>
+					<wf>흐림</wf>
+					<tmn>7</tmn>
 					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
@@ -4125,8 +4105,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>5</tmn>
+					<wf>흐리고 비</wf>
+					<tmn>7</tmn>
 					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
@@ -4136,8 +4116,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>3</tmn>
-					<tmx>8</tmx>
+					<tmn>1</tmn>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4146,7 +4126,27 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>3</tmn>
+					<tmn>1</tmn>
+					<tmx>6</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>8</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
 					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
@@ -4154,40 +4154,40 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-02-02</tmEf>
+					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
-					<tmn>-2</tmn>
-					<tmx>7</tmx>
+					<tmn>1</tmn>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2021-02-02</tmEf>
+					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
-					<tmn>-2</tmn>
-					<tmx>7</tmx>
+					<tmn>1</tmn>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
+					<tmEf>2021-02-04</tmEf>
 					<wf>맑음</wf>
-					<tmn>2</tmn>
-					<tmx>7</tmx>
+					<tmn>1</tmn>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2021-02-03</tmEf>
+					<tmEf>2021-02-04</tmEf>
 					<wf>맑음</wf>
-					<tmn>2</tmn>
-					<tmx>7</tmx>
+					<tmn>1</tmn>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4202,30 +4202,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-8</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-8</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>11</tmx>
+					<tmn>-2</tmn>
+					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4234,8 +4214,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>11</tmx>
+					<tmn>-2</tmn>
+					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4243,8 +4223,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>맑음</wf>
-					<tmn>0</tmn>
+					<wf>흐림</wf>
+					<tmn>1</tmn>
 					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
@@ -4253,8 +4233,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>0</tmn>
+					<wf>흐림</wf>
+					<tmn>1</tmn>
 					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
@@ -4264,8 +4244,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-1</tmn>
-					<tmx>6</tmx>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4274,48 +4254,68 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-1</tmn>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-02</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
 					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
 				
 				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-02</tmEf>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
 					<wf>맑음</wf>
 					<tmn>-4</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-02</tmEf>
-					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>7</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-03</tmEf>
-					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>5</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-02-03</tmEf>
-					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>5</tmx>
+					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4328,30 +4328,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-11</tmn>
-					<tmx>6</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-11</tmn>
-					<tmx>6</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
 					<tmn>-6</tmn>
-					<tmx>9</tmx>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4361,7 +4341,7 @@
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
 					<tmn>-6</tmn>
-					<tmx>9</tmx>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4369,8 +4349,8 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>맑음</wf>
-					<tmn>-4</tmn>
+					<wf>흐림</wf>
+					<tmn>-3</tmn>
 					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
@@ -4379,8 +4359,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-4</tmn>
+					<wf>흐림</wf>
+					<tmn>-3</tmn>
 					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
@@ -4390,8 +4370,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>4</tmx>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4400,8 +4380,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>4</tmx>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4410,7 +4390,7 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-7</tmn>
+					<tmn>-8</tmn>
 					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
@@ -4420,7 +4400,7 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-7</tmn>
+					<tmn>-8</tmn>
 					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
@@ -4430,7 +4410,27 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
-					<tmn>-6</tmn>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
 					<tmx>3</tmx>
 					<reliability></reliability>
 				</data>
@@ -4438,9 +4438,9 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2021-02-03</tmEf>
+					<tmEf>2021-02-04</tmEf>
 					<wf>맑음</wf>
-					<tmn>-6</tmn>
+					<tmn>-7</tmn>
 					<tmx>3</tmx>
 					<reliability></reliability>
 				</data>
@@ -4454,26 +4454,6 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
 					<tmn>0</tmn>
@@ -4495,9 +4475,9 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>맑음</wf>
-					<tmn>2</tmn>
-					<tmx>10</tmx>
+					<wf>흐림</wf>
+					<tmn>3</tmn>
+					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4505,9 +4485,9 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>2</tmn>
-					<tmx>10</tmx>
+					<wf>흐림</wf>
+					<tmn>3</tmn>
+					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4516,8 +4496,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>1</tmn>
-					<tmx>7</tmx>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4526,8 +4506,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>1</tmn>
-					<tmx>7</tmx>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4536,8 +4516,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-2</tmn>
-					<tmx>7</tmx>
+					<tmn>-3</tmn>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4546,8 +4526,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-2</tmn>
-					<tmx>7</tmx>
+					<tmn>-3</tmn>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4557,6 +4537,26 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-1</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-03</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
 					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
@@ -4564,9 +4564,9 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2021-02-03</tmEf>
+					<tmEf>2021-02-04</tmEf>
 					<wf>맑음</wf>
-					<tmn>-1</tmn>
+					<tmn>-3</tmn>
 					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
@@ -4580,26 +4580,6 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-8</tmn>
-					<tmx>9</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-8</tmn>
-					<tmx>9</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
 					<tmn>-3</tmn>
@@ -4621,9 +4601,9 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>맑음</wf>
-					<tmn>-2</tmn>
-					<tmx>11</tmx>
+					<wf>흐림</wf>
+					<tmn>-1</tmn>
+					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4631,9 +4611,9 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-2</tmn>
-					<tmx>11</tmx>
+					<wf>흐림</wf>
+					<tmn>-1</tmn>
+					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4642,8 +4622,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-2</tmn>
-					<tmx>5</tmx>
+					<tmn>-3</tmn>
+					<tmx>4</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4652,8 +4632,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-2</tmn>
-					<tmx>5</tmx>
+					<tmn>-3</tmn>
+					<tmx>4</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4662,8 +4642,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>7</tmx>
+					<tmn>-5</tmn>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4672,8 +4652,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>-4</tmn>
-					<tmx>7</tmx>
+					<tmn>-5</tmn>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4683,7 +4663,7 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-3</tmn>
-					<tmx>6</tmx>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4693,7 +4673,27 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-3</tmn>
-					<tmx>6</tmx>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4706,26 +4706,6 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-7</tmn>
-					<tmx>8</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
 					<tmn>-2</tmn>
@@ -4747,9 +4727,9 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>맑음</wf>
-					<tmn>1</tmn>
-					<tmx>10</tmx>
+					<wf>흐림</wf>
+					<tmn>2</tmn>
+					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4757,9 +4737,9 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>1</tmn>
-					<tmx>10</tmx>
+					<wf>흐림</wf>
+					<tmn>2</tmn>
+					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4768,8 +4748,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-1</tmn>
-					<tmx>6</tmx>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4778,8 +4758,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>-1</tmn>
-					<tmx>6</tmx>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4789,7 +4769,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
 					<tmn>-3</tmn>
-					<tmx>6</tmx>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4799,7 +4779,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
 					<tmn>-3</tmn>
-					<tmx>6</tmx>
+					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4819,6 +4799,26 @@
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
 					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
 					<tmx>6</tmx>
 					<reliability></reliability>
 				</data>
@@ -4832,30 +4832,10 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>4</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>4</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
 					<tmn>2</tmn>
-					<tmx>6</tmx>
+					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4865,7 +4845,7 @@
 					<tmEf>2021-01-30</tmEf>
 					<wf>맑음</wf>
 					<tmn>2</tmn>
-					<tmx>6</tmx>
+					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4873,9 +4853,9 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>맑음</wf>
-					<tmn>3</tmn>
-					<tmx>8</tmx>
+					<wf>흐림</wf>
+					<tmn>4</tmn>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4883,9 +4863,9 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>3</tmn>
-					<tmx>8</tmx>
+					<wf>흐림</wf>
+					<tmn>4</tmn>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4894,7 +4874,7 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>2</tmn>
+					<tmn>0</tmn>
 					<tmx>3</tmx>
 					<reliability></reliability>
 				</data>
@@ -4904,7 +4884,7 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>2</tmn>
+					<tmn>0</tmn>
 					<tmx>3</tmx>
 					<reliability></reliability>
 				</data>
@@ -4915,7 +4895,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
 					<tmn>0</tmn>
-					<tmx>3</tmx>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4925,7 +4905,7 @@
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
 					<tmn>0</tmn>
-					<tmx>3</tmx>
+					<tmx>5</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4934,8 +4914,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
-					<tmn>-1</tmn>
-					<tmx>2</tmx>
+					<tmn>0</tmn>
+					<tmx>3</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4944,8 +4924,28 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-03</tmEf>
 					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
 					<tmn>-1</tmn>
-					<tmx>2</tmx>
+					<tmx>3</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>3</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -4960,26 +4960,6 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>구름많음</wf>
-					<tmn>4</tmn>
-					<tmx>11</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>4</tmn>
-					<tmx>11</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
 					<tmn>6</tmn>
@@ -4991,7 +4971,7 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>흐림</wf>
+					<wf>구름많음</wf>
 					<tmn>6</tmn>
 					<tmx>14</tmx>
 					<reliability></reliability>
@@ -5001,29 +4981,29 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>흐림</wf>
-					<tmn>8</tmn>
-					<tmx>12</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-31</tmEf>
-					<wf>흐림</wf>
-					<tmn>8</tmn>
-					<tmx>12</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-01</tmEf>
 					<wf>흐리고 비</wf>
+					<tmn>9</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-01-31</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>9</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-01</tmEf>
+					<wf>구름많음</wf>
 					<tmn>6</tmn>
-					<tmx>8</tmx>
+					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -5033,7 +5013,7 @@
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
 					<tmn>6</tmn>
-					<tmx>8</tmx>
+					<tmx>7</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -5042,8 +5022,8 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>맑음</wf>
-					<tmn>3</tmn>
-					<tmx>8</tmx>
+					<tmn>4</tmn>
+					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -5052,8 +5032,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-02</tmEf>
 					<wf>구름많음</wf>
-					<tmn>3</tmn>
-					<tmx>8</tmx>
+					<tmn>4</tmn>
+					<tmx>11</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -5062,7 +5042,7 @@
 					<numEf>1</numEf>
 					<tmEf>2021-02-03</tmEf>
 					<wf>구름많음</wf>
-					<tmn>4</tmn>
+					<tmn>5</tmn>
 					<tmx>8</tmx>
 					<reliability></reliability>
 				</data>
@@ -5071,9 +5051,29 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-02-03</tmEf>
-					<wf>흐림</wf>
-					<tmn>4</tmn>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
 					<tmx>8</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>구름많음</wf>
+					<tmn>4</tmn>
+					<tmx>10</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>10</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -5086,29 +5086,9 @@
 				
 				<data>
 					<numEf>1</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>구름많음</wf>
-					<tmn>2</tmn>
-					<tmx>11</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>2</tmn>
-					<tmx>11</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
 					<tmEf>2021-01-30</tmEf>
 					<wf>구름많음</wf>
-					<tmn>8</tmn>
+					<tmn>7</tmn>
 					<tmx>13</tmx>
 					<reliability></reliability>
 				</data>
@@ -5117,8 +5097,8 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-01-30</tmEf>
-					<wf>흐림</wf>
-					<tmn>8</tmn>
+					<wf>구름많음</wf>
+					<tmn>7</tmn>
 					<tmx>13</tmx>
 					<reliability></reliability>
 				</data>
@@ -5127,29 +5107,29 @@
 				<data>
 					<numEf>1</numEf>
 					<tmEf>2021-01-31</tmEf>
-					<wf>흐림</wf>
-					<tmn>10</tmn>
-					<tmx>14</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>2</numEf>
-					<tmEf>2021-01-31</tmEf>
-					<wf>흐림</wf>
-					<tmn>10</tmn>
-					<tmx>14</tmx>
-					<reliability></reliability>
-				</data>
-
-				
-				<data>
-					<numEf>1</numEf>
-					<tmEf>2021-02-01</tmEf>
 					<wf>흐리고 비</wf>
-					<tmn>5</tmn>
-					<tmx>10</tmx>
+					<tmn>11</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-01-31</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>11</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-01</tmEf>
+					<wf>구름많음</wf>
+					<tmn>4</tmn>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -5158,8 +5138,8 @@
 					<numEf>2</numEf>
 					<tmEf>2021-02-01</tmEf>
 					<wf>맑음</wf>
-					<tmn>5</tmn>
-					<tmx>10</tmx>
+					<tmn>4</tmn>
+					<tmx>9</tmx>
 					<reliability></reliability>
 				</data>
 
@@ -5197,9 +5177,29 @@
 				<data>
 					<numEf>2</numEf>
 					<tmEf>2021-02-03</tmEf>
-					<wf>흐림</wf>
+					<wf>맑음</wf>
 					<tmn>6</tmn>
 					<tmx>11</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>1</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>구름많음</wf>
+					<tmn>5</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+				</data>
+
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2021-02-04</tmEf>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
+					<tmx>12</tmx>
 					<reliability></reliability>
 				</data>
 
