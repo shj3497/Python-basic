@@ -26,10 +26,11 @@ out_file_path = "./data/download_image.jpg"
 # with open : open() 후 자동으로 close()를 해준다.
 # out_file_path : 파일이 저장되어있는 위치
 # 'wb' : 파일 모드
-#           읽기(r), 쓰기(w or x), 추가(a), 수정(+)
+#           열기(r), 쓰기(w or x), 추가(a), 수정(+)
 #           w : 파일이 이미 있으면 그 내용을 삭제하고 새로 생성
 #           x : 파일이 이미 있으면 FileExistsError를 발생시킨다.
 #           텍스트파일(t), 바이너리 파일(b)를 지정할 수 있다.
+# .read() : 읽기
 # with open
 with open(out_file_path, 'wb') as out_file:
     out_file.write(target_img_resp.content) # 이미지 파일이라 파일의 주소명.content 로 write 해줌
