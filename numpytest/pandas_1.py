@@ -184,3 +184,100 @@ print()
 # 열데이터를 지정해서 원하는 만큼의 행을 뽑아온다.
 print(df_KTX['경부선KTX']['2012':'2014']) # 키를 지정하면 12~14년출력
 print(df_KTX['경부선KTX'][2:5]) # 인덱스로 하면 2~4까지 출력 13~15년
+print()
+# DataFrame_data.loc[index_name][column_name] >>> .loc !!
+# DataFrame_data.loc[index_name, column_name]
+# DataFrame_data[column_name].loc[index_name]
+# DataFrame_data[column_name][index_name]
+# DataFrame_data[column_name][index_pos]
+print(df_KTX.loc['2016']['호남선KTX']) # 실수
+print(df_KTX.loc['2016', '호남선KTX']) # 정수 >> .loc 라는 함수를 사용하면 열,행
+print(df_KTX['호남선KTX']['2016'])     # 아니면 행, 열 로 조회한다.
+print(df_KTX['호남선KTX'][5])
+print(df_KTX['호남선KTX'].loc['2016'])
+print()
+print()
+# DateFrame_data.T  : 전치행렬 구하기
+print(df_KTX)
+print(df_KTX.T) # 전치행렬 .T : 행과 열을 바꾼다.
+print(df_KTX[['동해선KTX','전라선KTX','경전선KTX','호남선KTX','경부선KTX']])
+print()
+print()
+
+# 데이터 통합하기
+# 세로방향으로 통합하기 >>> : 행데이터를 더한다.
+# DateFrame_data1.append(DataFrame_data2 [, ignore_index=True])
+df1 = pandas.DataFrame({'Class1':[95,92,98,100],
+                        'Class2':[91,93,97,99]})
+print(df1) # 딕셔너리타입을 넣었다. 자동으로 key값은 column이 된다.
+print()
+df2 = pandas.DataFrame({'Class1':[87,89],
+                        'Class2':[85,90]})
+print(df2)
+print(df1.append(df2)) # 그냥 append(DataFrame_data)를 하게되면 인덱스번호가 중복된다.
+print(df1.append(df2, ignore_index=True)) # ignore_index=True이면 인덱스번호가 순차적인것을 볼 수 있다.
+print()
+df3 = pandas.DataFrame({'Class1':[96,83]})
+print(df3)
+print(df2.append(df3, ignore_index=True)) # Class2는 NaN으로 채워진다.
+print()
+
+# 가로방향으로 통합하기 >>> : 열데이터를 더한다.
+# DataFrame_data1.join(DataFrame_data2)
+df4 = pandas.DataFrame({'Class3':[93,91,95,98]})
+print(df4)
+print(df1.join(df4))
+print()
+# {'Class1':[95,92,98,100], 'Class2':[91,93,97,99], 'Class3':[93,91,95,98]} 라는 딕셔너리가 만들어진다는건데..
+df5 = pandas.DataFrame({'Class4':[82,92]})
+print(df5)
+print("Join")
+print(df1.join(df5))
+print()
+
+# 특정 열을 기준으로 통합하기
+# DataFrame_left_data.merge(DataFrame_right_data)
+df_A_B = pandas.DataFrame({'판매월':['1월','2월','3월','4월'],
+                           '제품A':[100,150,200,130],
+                           '제품B':[90,110,140,170]})
+print(df_A_B)
+print(df_A_B[['제품A','제품B','판매월']])
+print()
+df_C_D = pandas.DataFrame({'판매월':['1월','2월','3월','4월'],
+                           '제품C':[112,141,203,134],
+                           '제품D':[90,110,140,170]})
+print(df_C_D)
+print(df_A_B.merge(df_C_D))
+# .merge() : 같은 로우(행)에 대해서만 합한다.
+# ex) : df_A_B : 4월->5월 변경후 실행 >> 1월, 2월, 3월에 대해서만 merge가 이루어진다.
+
+# DataFrame_left_data.merge(DataFrame_right_data, how=merge_method, on=key_label)
+#   how 선택인자
+#       left : 왼쪽 데이터는 모두 선택하고 지정된 열(key)에 값이 있는 오른쪽 데이터를 선택
+#       right : 오른쪽 데이터는 모두 선택하고 지정된 열(key)에 값이 있는 왼쪽 데이터를 선택
+#       outer : 지정된 열(key)을 기준으로 왼쪽과 오른쪽 데이터를 모두 선택
+#       inner : 지정된 열(key)을 기준으로 왼쪽과 오른쪽 데이터중 공통항목만 선택(default)
+df_left = pandas.DataFrame({'key':['A','B','C'], 'left':[1,2,3]})
+print(df_left)
+df_right = pandas.DataFrame({'key':['A','B','D'], 'right':[4,5,6]})
+print(df_right)
+print()
+
+df_merge_left = df_left.merge(df_right, how='left', on='key')
+print("df_merge_left")
+print(df_merge_left)
+print()
+
+df_merge_right = df_left.merge(df_right, how='right', on='key')
+print("df_merge_right")
+print(df_merge_right)
+print()
+
+df_merge_outer = df_left.merge(df_right, how='outer', on='key')
+print("df_merge_outer")
+print(df_merge_outer)
+print()
+
+df_merge_inner = df_left.merge(df_right, how='inner', on='key')
+print("df_merge_inner")
+print(df_merge_inner)

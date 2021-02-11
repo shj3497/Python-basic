@@ -1,7 +1,8 @@
 """
 pandas는 구조적 데이터 표시와 처리하는 라이브러리이다.
 구조적데이터 
-    1차원배열 : Series() : 배열
+    1차원배열 : Series() : 배열    : 문자, 숫자 등 여러가지 데이터 타입가능
+             <-> numpy.array : 데이터타입이 하나로 바뀐다. ex) 2, 1.0 >> 2.0, 2.0 모두 실수타입
     2차원배열 : DataFrame() : 행렬
 pandas는 numpy 기반으로 만들어졌으며
 복잡한 데이터 분석에 특화되어있다.
@@ -106,7 +107,46 @@ pandas.DataFrame()의 연산
         df.loc['봄']
         df.loc['봄':'가을'] >> : 봄~가을 행을 출력한다.
 
+    DataFrame_data.loc[index_name][column_name] >>> .loc !!
+    DataFrame_data.loc[index_name, column_name]
+    DataFrame_data[column_name].loc[index_name]
+    DataFrame_data[column_name][index_name]
+    DataFrame_data[column_name][index_pos]
+        >> : 일반적 조회 : 행,열
+        >> : .loc : 열,행
 
+데이터 통합하기
+세로방향으로 통합하기 : .append() : 행데이터 삽입
+    DataFrame_data1.append(DataFrame_data2 [, ignore_index=True])
+        df1.append(df2) 는 인덱스번호가 같으면 중복된다.
+        ignore_index=True 를 하게되면 df1에 따라 인덱스번호가 순차적으로 증가한다.
+
+가로방향으로 통합하기 : .join() : 열데이터 삽입
+    DataFrame_data1.join(DataFrame_data2)
+        >> : 열데이터가 삽입된다. append()와는 반대
+
+특정 열을 기준으로 통합하기 : .merge()
+DataFrame_left_data.merge(DataFrame_right_data, how=merge_method, on=key_label)
+    how 선택인자
+        left : 왼쪽 데이터는 모두 선택하고 지정된 열(key)에 값이 있는 오른쪽 데이터를 선택
+             : .merge()를 기준으로 왼쪽에 있는(DataFrame_left_data) key값을 선택 (
+        right : 오른쪽 데이터는 모두 선택하고 지정된 열(key)에 값이 있는 왼쪽 데이터를 선택
+              : .merge()를 기준으로 오른쪽에 있는(DataFrame_right_data) key 값을 선택
+        outer : 지정된 열(key)을 기준으로 왼쪽과 오른쪽 데이터를 모두 선택
+              : key값을 합하여 모든 데이터를 표시한다. (합집합 느낌)
+        inner : 지정된 열(key)을 기준으로 왼쪽과 오른쪽 데이터중 공통항목만 선택(default)
+              : key값이 일치한 데이터만 표시 (교집합 느낌)
+    on
+        공통 키 선택
+
+
+데이터 파일을 읽고 쓰기
+표 형식의 데이터 파일을 읽기
+    DataFrame_data = pandas.read_csv(file_name [, options])
+        options
+            encoding="UTF-8"
+            sep = " " >> : csv파일이 ',' 구분자가 아닌 'space(띄어쓰기)'로 구분되어 있을경우
+            index_col = "컬럼명"
 
 
 
