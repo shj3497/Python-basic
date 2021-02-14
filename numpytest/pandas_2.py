@@ -8,7 +8,7 @@ import pandas
 
 sea_rain1 = pandas.read_csv("./data/sea_rain1.csv")
 print(sea_rain1)
-# pandas.read_csv("~.scv", encoding="UTF-8")
+# pandas.read_csv("~.csv", encoding="UTF-8")
 print()
 print()
 
