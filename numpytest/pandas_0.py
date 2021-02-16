@@ -149,6 +149,14 @@ DataFrame_left_data.merge(DataFrame_right_data, how=merge_method, on=key_label)
             index_col = "컬럼명"
 
 
-
+판다스로 그래프 출력
+    df1 = DataFrame_data.DataFrame()
+    df1.plot()          >> 직선그래프
+    df1.plot.scatter()  >> 산점도
+    df1.plot.bar()      >> 막대그래프
+    df1.plot.hist()     >> 히스토그램
+    df1.plot.pie()      >> 파이그래프
 
 """
+
+

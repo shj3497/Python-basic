@@ -197,6 +197,7 @@ plt.scatter(height,weight,c=colors,s=size)
 plt.show()
 """
 
+"""
 matplotlib.rcParams['font.family'] = "Malgun Gothic"
 matplotlib.rcParams['axes.unicode_minus'] = False
 
@@ -220,5 +221,103 @@ plt.title('지역별 인구 밀도(2017)')
 for x,y,name in zip(lon,lat,city):
     plt.text(x,y,name) # 위도 경도에 맞게 도시 이름 입력했음
 plt.show()
+"""
 
 # 막대그래프
+# plt.bar(x, height [,width=width_f, color=colors, tick_label=tick_labels, align='center'(기본) or 'edge', label=labels])
+"""
+member_IDs = ['m_01', 'm_02', 'm_03', 'm_04'] # 회원 ID
+before_ex = [27,35,40,33]
+after_ex = [30,38,42,37]
+colors = ['r','g','b','m']
+
+n_data = len(member_IDs)
+index = numpy.arange(n_data)
+#plt.bar(index, before_ex) # bar(x,y)에서 x=index, height=before_ex로 지정
+plt.barh(index, before_ex, tick_label=member_IDs, color=colors) # x축의 tick 라벨을 member_IDs로 지정했다.
+plt.show()
+"""
+
+"""
+plt.rcParams['font.family'] = 'Malgun Gothic'
+member_IDs = ['m_01', 'm_02', 'm_03', 'm_04'] # 회원 ID
+before_ex = [27,35,40,33]
+after_ex = [30,38,42,37]
+colors = ['r','g','b','m']
+
+n_data = len(member_IDs)
+index = numpy.arange(n_data)
+
+barWidth = 0.4
+plt.bar(index, before_ex, color='c', align='edge', width=barWidth, label='before')
+plt.bar(index+barWidth, after_ex, color='m', align='edge', width=barWidth, label='after')
+plt.xticks(index+barWidth, member_IDs)
+plt.legend(loc=2)
+plt.xlabel('회원ID')
+plt.ylabel('윗몸일으키기 횟수')
+plt.title('운동시작전과 후의 근지구력 변화 비교')
+plt.show()
+"""
+
+# 히스토그램
+# plt.hist(x, [,bins=bins_n or 'auto'])
+"""
+math = [76,82,84,83,90,86,85,92,72,71,100,87,76,94,78,81,60,79,69,74,87,82,68,79]
+plt.hist(math)
+plt.show()
+"""
+
+# 파이그래프
+# plt.pie(x [,labels=label_seq, autopct="비율 표시 형식(ex: %0.1f)',
+#           shadow=Flase(기본) or True, explode=explode_seq,
+#           counterclock = True(기본) or False, startangle = 각도(기본은 0)])
+"""
+plt.rcParams['font.family'] = 'Malgun Gothic'
+fruit = ['사과','바나나','딸기','오렌지','포도']
+result = [7,6,3,2,2]
+explode_value=(0.1,0,0,0,0)
+
+plt.figure(figsize=(5,5))
+plt.pie(result, labels=fruit, autopct='%.1f%%', startangle=90, counterclock=False
+        , explode=explode_value, shadow=True)
+plt.show()
+"""
+
+# 그래프 저장하기
+# plt.savefig(file_name [,dpi = dpi_n(기본은 72)])
+"""
+x = numpy.arange(0,5,1)
+y1 = x
+y2 = x+1
+y3 = x+2
+y4 = x+3
+
+plt.plot(x,y1, x,y2, x,y3, x,y4)
+plt.grid(True)
+plt.xlabel('x')
+plt.ylabel('y')
+plt.title('Saving a figure')
+
+# 그래프를 이미지 파일로 저장. dpi는 100으로 설정
+# 그래프의 크기를 변경하지 않아서
+# 너비 6인치, 높이 4인치로 지정이 되있고
+# 너비 600픽셀, 높이 400픽셀인 이미지 파일이 생성된다.
+plt.savefig('./data/saveFigTest1.png', dpi=100)
+plt.show()
+"""
+
+"""
+plt.rcParams['font.family'] = 'Malgun Gothic'
+fruit = ['사과','바나나','딸기','오렌지','포도']
+result = [7,6,3,2,2]
+explode_value=(0.1,0,0,0,0)
+
+plt.figure(figsize=(5,5)) # 그래프 크기를 지정(인치)
+plt.pie(result, labels=fruit, autopct="%.1f%%", startangle=90, counterclock=False,
+        explode=explode_value, shadow=True)
+# 그래프를 이미지 파일로 저장. dpi는 100으로 설정
+plt.savefig("./data/saveFigTest2.png", dpi=200)
+plt.show()
+# 픽셀 = 인치*dpi
+"""
+

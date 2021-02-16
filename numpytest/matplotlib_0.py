@@ -105,6 +105,53 @@ import matplotlib.pyplot as plt
     plt.scatter(x,y [,s=size_n, c=colors, marker='marker_string', alpha=alpha_f])
 
 
+# 막대그래프
+    plt.bar(x, height [,width=width_f, color=colors, tick_label=tick_labels,
+            align='center'(기본) or 'edge', label=labels])
+        x축으로 해당 데이터들의 막대그래프들을 만들어준다.        
+        tick_label : x축에 라벨을 붙여줌
+
+    plt.barh()
+        y축으로 해당 데이터들의 막대그래프들을 만들어준다. >> plt.bar()의 눕혀진 상태
+
+
+# 히스토그램
+    plt.hist(x, [,bins=bins_n or 'auto'])
+        bins 옵션을 입력하지 않으면 기본적으로 bins는 10이 된다.
+        bins?
+            bins는 데이터의 범위를 쪼개는 것
+            matplotlib_1.py에서 264행을 보면 데이터 범위가 60~100이다.
+            이 범위(40)을 10개로 쪼개서 단위 4로 히스토그램을 만든다.
+
+
+# 파이그래프
+    plt.pie(x [,labels=label_seq, autopct="비율 표시 형식(ex: %0.1f)',
+            shadow=Flase(기본) or True, explode=explode_seq,
+            counterclock = True(기본) or False, startangle = 각도(기본은 0)])
+        labels  : x데이터 항목의 수와 같은 문자열 시퀀스(리플,튜플)를 지정해 파이 그래프의
+                    각 부채꼴 부분에 문자열을 표시한다.
+        autopct : 각 부채꼴 부분에 항목의 비율이 표시되는 숫자의 형식을 지정합니다.
+            ex) "%0.1f" 소수점 첫째자리까지 표시, "%0.0f" 정수만 표시
+        shadow  : 그림자 효과를 지정하는것. 기본값은 False
+        explode : 부채꼴 부분이 원에서 돌출되는 효과를 주어 특정 부채꼴 부분을 강조할 때 이용
+                    x 데이터 항목의 수와 같은 시퀀스(리스트,튜플) 데이터로 지정
+        counterclock : x데이터에서 부채꼴 부분이 그려지는 순서가 반시계(True), 시계방향(Flase)인지를 지정
+                        기본값 : 반시계방향(True)
+        startangle : 제일 처음 부채꼴이 그려지는 각도로 x축을 중심으로 반시계방향으로 증가
+
+        plt.figure(figsize=(w,h))
+            w(width), h(height) : 단위(inch)
+            default (w, h) : (6, 4)
+        ex)
+            matplotlib_1.py 262행
+
+
+# 그래프 저장
+    plt.savefig(file_name [,dpi = dpi_n(기본은 72)])
+
+
+
+
 
 
 
